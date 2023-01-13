@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/230110ReactWeb/static/css/main.fcde04c3.css",
+    "main.js": "/230110ReactWeb/static/js/main.d601347d.js",
+    "index.html": "/230110ReactWeb/index.html",
+    "main.fcde04c3.css.map": "/230110ReactWeb/static/css/main.fcde04c3.css.map",
+    "main.d601347d.js.map": "/230110ReactWeb/static/js/main.d601347d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcde04c3.css",
+    "static/js/main.d601347d.js"
+  ]
+}
